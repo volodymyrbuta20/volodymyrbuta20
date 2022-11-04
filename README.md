@@ -21,10 +21,10 @@ My name is Volodymyr, I'm junior Frontend Developer from Ukraine! :blue_heart::y
 <p>I've recently graduated my studying and now I'm ready to do some cool stuff. I'm looking full time position in a product company. Also i am open for any interesting projects that will allow me to develop as a specialist.</p>
 <div id="badges">
   <a href="https://www.linkedin.com/in/volodymyr-buta-313962175/">
-    <img src="https://img.shields.io/badge/volodymyr buta-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/volodymyr buta-blue?style=flat-squar&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/volodymyr-buta-313962175/">
-    <img src="https://img.shields.io/badge/volodymyrbuta20@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
+    <img src="https://img.shields.io/badge/volodymyrbuta20@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="GMail Badge"/>
   </a>
 </div>
 
